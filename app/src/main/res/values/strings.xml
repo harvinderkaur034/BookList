@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Books List</string>
+    <string name="Internet_not_found">No internet found</string>
+    <string name="Books_not_available">No books available. Please go back and search for a different book.</string>
+    <string name="title_activity_update">Update</string>
+    <string name="book">Name of book</string>
+    <string name="author">Author name</string>
+    <string name="hint">Info about work</string>
+    <string name="update">Searching update</string>
+</resources>
